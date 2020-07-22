@@ -1,0 +1,6 @@
+D:\GitCode\AzurePipeline\AzurePipeline\bin\Debug\AzurePipeline.exe.config
+D:\GitCode\AzurePipeline\AzurePipeline\bin\Debug\AzurePipeline.exe
+D:\GitCode\AzurePipeline\AzurePipeline\bin\Debug\AzurePipeline.pdb
+D:\GitCode\AzurePipeline\AzurePipeline\obj\Debug\AzurePipeline.csprojAssemblyReference.cache
+D:\GitCode\AzurePipeline\AzurePipeline\obj\Debug\AzurePipeline.exe
+D:\GitCode\AzurePipeline\AzurePipeline\obj\Debug\AzurePipeline.pdb
